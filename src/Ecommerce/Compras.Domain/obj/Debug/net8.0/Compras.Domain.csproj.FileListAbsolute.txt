@@ -1,0 +1,12 @@
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\bin\Debug\net8.0\Compras.Domain.deps.json
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\bin\Debug\net8.0\Compras.Domain.dll
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\bin\Debug\net8.0\Compras.Domain.pdb
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\Compras.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\Compras.Domain.AssemblyInfoInputs.cache
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\Compras.Domain.AssemblyInfo.cs
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\Compras.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\Compras.Domain.sourcelink.json
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\Compras.Domain.dll
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\refint\Compras.Domain.dll
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\Compras.Domain.pdb
+C:\Users\nico_\OneDrive\Desktop\Projects\ecommerce\ecommerce-architecture-roadmap\src\Ecommerce\Compras.Domain\obj\Debug\net8.0\ref\Compras.Domain.dll

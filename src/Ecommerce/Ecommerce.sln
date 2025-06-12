@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Domain", "Auth.Domain\Auth.Domain.csproj", "{E67C728A-1D05-4061-974E-9BF53FAE02B6}"
 EndProject
@@ -18,6 +18,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compras.Infrastructure", "Compras.Infrastructure\Compras.Infrastructure.csproj", "{79B97BCA-3DAC-4C1C-AF0A-B7F2D3462612}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Compras.Api", "Compras.Api", "{E2F25EF8-2D7E-4673-A5BA-5DA231D18C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Abstractions", "Ecommerce.Abstractions\Ecommerce.Abstractions.csproj", "{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infrastructure", "Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj", "{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +53,14 @@ Global
 		{79B97BCA-3DAC-4C1C-AF0A-B7F2D3462612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B97BCA-3DAC-4C1C-AF0A-B7F2D3462612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B97BCA-3DAC-4C1C-AF0A-B7F2D3462612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
