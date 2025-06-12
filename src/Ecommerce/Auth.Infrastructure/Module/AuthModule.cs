@@ -17,7 +17,7 @@ namespace Auth.Infrastructure.Module
             services.AddScoped<ITokenGenerator, JwtTokenGenerator>();
             services.AddScoped<IPasswordHasher, PasswordHasher>();
             services.AddScoped<ITokenValidator, JwtValidatorService>();
-            services.AddScoped<IAuthUserRepository, InMemoryAuthUserRepository>();
+            services.AddSingleton<IAuthUserRepository, InMemoryAuthUserRepository>();
 
         }
     }
