@@ -1,9 +1,7 @@
-﻿
-
-using Ecommerce.Abstractions.Messaging;
+﻿using Ecommerce.Abstractions.Messaging;
 using System.ComponentModel.DataAnnotations;
 
-namespace Contracts.Auth.Commands
+namespace Ecommerce.Contracts.Auth.Commands.SignUp
 {
     public record SignUpCommand : ICommand<Guid>
     {

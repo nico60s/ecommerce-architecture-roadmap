@@ -3,8 +3,8 @@
 using Auth.Application.Services;
 using Auth.Domain.Entities;
 using Auth.Domain.Repositories;
-using Contracts.Auth.Commands;
 using Ecommerce.Abstractions.Messaging;
+using Ecommerce.Contracts.Auth.Commands.SignUp;
 
 namespace Auth.Application.Commands
 {

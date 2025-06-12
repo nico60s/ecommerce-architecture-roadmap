@@ -7,28 +7,56 @@
       "RelativeMoniker": "D:0:0:{93FD8B97-F571-4BAD-B934-54903839A163}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|solutionrelative:ecommerce.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}|Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.abstractions\\messaging\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}|Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj|solutionrelative:ecommerce.abstractions\\messaging\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61AA5DC2-465B-4559-9C94-254D4AB914D4}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AA5DC2-465B-4559-9C94-254D4AB914D4}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.contracts.auth\\commands\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|solutionrelative:ecommerce.contracts.auth\\commands\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.application\\commands\\signincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\commands\\signincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93FD8B97-F571-4BAD-B934-54903839A163}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.webapi\\requests\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93FD8B97-F571-4BAD-B934-54903839A163}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|solutionrelative:ecommerce.webapi\\requests\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.application\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.application\\commands\\signupcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\commands\\signupcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.contracts.auth\\commands\\signin\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|solutionrelative:ecommerce.contracts.auth\\commands\\signin\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.domain\\repositories\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\repositories\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.contracts.auth\\commands\\signin\\signincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|solutionrelative:ecommerce.contracts.auth\\commands\\signin\\signincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.contracts.auth\\commands\\signup\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|solutionrelative:ecommerce.contracts.auth\\commands\\signup\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.contracts.auth\\ecommerce.contracts.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9929DBD6-114D-4785-AC81-F4BC61176812}|Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj|solutionrelative:ecommerce.contracts.auth\\ecommerce.contracts.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.domain\\entities\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\entities\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AA5DC2-465B-4559-9C94-254D4AB914D4}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AA5DC2-465B-4559-9C94-254D4AB914D4}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.application\\services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BDA7020-5A54-45BF-A235-3718F710C9AC}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.domain\\repositories\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\repositories\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}|Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.abstractions\\messaging\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}|Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj|solutionrelative:ecommerce.abstractions\\messaging\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FD8B97-F571-4BAD-B934-54903839A163}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.webapi\\requests\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FD8B97-F571-4BAD-B934-54903839A163}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|solutionrelative:ecommerce.webapi\\requests\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}|Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.abstractions\\hosting\\imodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}|Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\ecommerce.abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}|Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj|solutionrelative:ecommerce.abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\ecommerce\\auth.domain\\entities\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67C728A-1D05-4061-974E-9BF53FAE02B6}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\entities\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +82,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:21:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignInResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInResponse.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInResponse.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInResponse.cs",
+              "RelativeToolTip": "Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:09:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Services\\ITokenGenerator.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Services\\ITokenGenerator.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Services\\ITokenGenerator.cs",
+              "RelativeToolTip": "Auth.Application\\Services\\ITokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:08:16.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Commands\\SignInCommandHandler.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Commands\\SignInCommandHandler.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Commands\\SignInCommandHandler.cs",
+              "RelativeToolTip": "Auth.Application\\Commands\\SignInCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:02:38.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IAuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Repositories\\IAuthUserRepository.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Repositories\\IAuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Repositories\\IAuthUserRepository.cs",
+              "RelativeToolTip": "Auth.Domain\\Repositories\\IAuthUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:27:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Ecommerce.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:37:14.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignInCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "RelativeToolTip": "Ecommerce.Contracts.Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:07:09.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ecommerce.Contracts.Auth",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj",
+              "RelativeDocumentMoniker": "Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj",
+              "RelativeToolTip": "Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T03:03:09.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:33:43.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IPasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Services\\IPasswordHasher.cs",
               "RelativeDocumentMoniker": "Auth.Application\\Services\\IPasswordHasher.cs",
@@ -75,63 +220,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SignUpCommand.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignUpCommand.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Contracts.Auth\\Commands\\SignUpCommand.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignUpCommand.cs",
-              "RelativeToolTip": "Ecommerce.Contracts.Auth\\Commands\\SignUpCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignUp\\SignUpCommand.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Contracts.Auth\\Commands\\SignUp\\SignUpCommand.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Commands\\SignUp\\SignUpCommand.cs",
+              "RelativeToolTip": "Ecommerce.Contracts.Auth\\Commands\\SignUp\\SignUpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T01:59:02.982Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignUpRequest.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
-              "RelativeToolTip": "Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T01:44:14.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebApi\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Ecommerce.WebApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T01:37:14.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignUpCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Commands\\SignUpCommandHandler.cs",
-              "RelativeDocumentMoniker": "Auth.Application\\Commands\\SignUpCommandHandler.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Commands\\SignUpCommandHandler.cs",
-              "RelativeToolTip": "Auth.Application\\Commands\\SignUpCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:34:05.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "ICommandDispatcher.cs",
               "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommandDispatcher.cs",
               "RelativeDocumentMoniker": "Ecommerce.Abstractions\\Messaging\\ICommandDispatcher.cs",
@@ -139,77 +241,11 @@
               "RelativeToolTip": "Ecommerce.Abstractions\\Messaging\\ICommandDispatcher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:49:50.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Repositories\\IAuthUserRepository.cs",
-              "RelativeDocumentMoniker": "Auth.Domain\\Repositories\\IAuthUserRepository.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Repositories\\IAuthUserRepository.cs",
-              "RelativeToolTip": "Auth.Domain\\Repositories\\IAuthUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:27:27.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IModule.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Hosting\\IModule.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Abstractions\\Hosting\\IModule.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Hosting\\IModule.cs",
-              "RelativeToolTip": "Ecommerce.Abstractions\\Hosting\\IModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T01:21:03.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InMemoryCommandDispatcher.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
-              "RelativeToolTip": "Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:52:16.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommand.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Abstractions\\Messaging\\ICommand.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommand.cs",
-              "RelativeToolTip": "Ecommerce.Abstractions\\Messaging\\ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:43:56.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T00:49:50.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
-              "RelativeToolTip": "Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:44:04.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "AuthUser.cs",
               "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Entities\\AuthUser.cs",
               "RelativeDocumentMoniker": "Auth.Domain\\Entities\\AuthUser.cs",
@@ -219,6 +255,66 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T00:24:18.315Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
+              "RelativeToolTip": "Ecommerce.WebApi\\Requests\\SignUpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:44:14.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IModule.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Hosting\\IModule.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Abstractions\\Hosting\\IModule.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Hosting\\IModule.cs",
+              "RelativeToolTip": "Ecommerce.Abstractions\\Hosting\\IModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:21:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InMemoryCommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Messaging\\InMemoryCommandDispatcher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:52:16.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "Ecommerce.Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:43:56.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "Ecommerce.Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:44:04.528Z"
             }
           ]
         }

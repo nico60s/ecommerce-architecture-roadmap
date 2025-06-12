@@ -1,6 +1,5 @@
-﻿
-using Contracts.Auth.Commands;
-using Ecommerce.Abstractions.Messaging;
+﻿using Ecommerce.Abstractions.Messaging;
+using Ecommerce.Contracts.Auth.Commands.SignUp;
 using Ecommerce.WebApi.Requests;
 using Microsoft.AspNetCore.Mvc;
 

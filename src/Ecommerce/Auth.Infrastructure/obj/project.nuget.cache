@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "80XtT50j9fU=",
+  "dgSpecHash": "oPXU8RLcmug=",
   "success": true,
   "projectFilePath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Infrastructure\\Auth.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nico_\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\nico_\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.6\\microsoft.extensions.configuration.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\nico_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\nico_\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512"
+  ],
   "logs": []
 }

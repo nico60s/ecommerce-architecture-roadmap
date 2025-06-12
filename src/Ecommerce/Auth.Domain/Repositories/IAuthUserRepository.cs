@@ -6,5 +6,6 @@ namespace Auth.Domain.Repositories
     {
         Task<bool> ExistEmailAsync(string email);
         Task Add(AuthUser user);
+        Task<AuthUser> GetByEmailAsync(string email);
     }
 }
