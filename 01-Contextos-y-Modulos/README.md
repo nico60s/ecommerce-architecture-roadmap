@@ -1,1 +1,1 @@
-# Etapa 1 – Contextos Modulares
+# Etapa 1 – Contextos y Módulos
