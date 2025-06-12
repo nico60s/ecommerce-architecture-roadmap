@@ -18,7 +18,7 @@ Proveer un **roadmap arquitectónico práctico**, estructurado por etapas, con e
 
 ## 🧭 Etapas
 
-1. **Contextos Modulares y Bounded Contexts**
+1. **Contextos ,Modulos y Bounded Contexts**
 2. **Eventos, Consistencia y Mensajería**
 3. **ACLs y Protección Semántica**
 4. **Resiliencia y Observabilidad**
