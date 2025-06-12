@@ -6,7 +6,7 @@ namespace Ecommerce.Infrastructure.Messaging
 {
     public class InMemoryCommandDispatcher : ICommandDispatcher
     {
-        private readonly IServiceProvider _serviceProvider;
+        private  IServiceProvider _serviceProvider;
 
         public InMemoryCommandDispatcher(IServiceProvider serviceProvider)
         {

@@ -7,7 +7,7 @@ using Ecommerce.Contracts.Auth.Commands.SignIn;
 
 namespace Auth.Application.Commands
 {
-    internal class SignInCommandHandler : ICommandHandler<SignInCommand, SignInResponse>
+    public class SignInCommandHandler : ICommandHandler<SignInCommand, SignInResponse>
     {
         private readonly IAuthUserRepository _userRepository;
         private readonly IPasswordHasher _passwordHasher;
@@ -26,7 +26,7 @@ namespace Auth.Application.Commands
             var user = await _userRepository.GetByEmailAsync(command.Email) ??
                 throw new Exception("Credencial inválida");
 
-            if(!_passwordHasher.Verify(user.PasswordHash, command.Password))
+            if(!_passwordHasher.Verify( command.Password, user.PasswordHash))
             {
                 throw new Exception("Credencial inválida");
             }

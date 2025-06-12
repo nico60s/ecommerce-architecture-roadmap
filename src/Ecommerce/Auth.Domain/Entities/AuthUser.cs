@@ -3,13 +3,13 @@
     public class AuthUser
     {
         public Guid Id { get; init; }
-        public string Name { get; init; }
+        public string Email { get; init; }
         public string PasswordHash { get; init; }
 
-        public AuthUser(Guid id, string name, string passwordHash)
+        public AuthUser(Guid id, string email, string passwordHash)
         {
             Id = id;
-            Name = name;
+            Email = email;
             PasswordHash = passwordHash;               
         }
     }

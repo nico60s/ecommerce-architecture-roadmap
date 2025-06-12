@@ -11,8 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Auth.Infrastructure\Auth.Infrastructure.csproj" />
     <ProjectReference Include="..\Ecommerce.Abstractions\Ecommerce.Abstractions.csproj" />
     <ProjectReference Include="..\Ecommerce.Contracts.Auth\Ecommerce.Contracts.Auth.csproj" />
+    <ProjectReference Include="..\Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

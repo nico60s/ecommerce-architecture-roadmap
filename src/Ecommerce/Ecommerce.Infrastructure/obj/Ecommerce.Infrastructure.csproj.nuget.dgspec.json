@@ -4,6 +4,148 @@
     "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {}
   },
   "projects": {
+    "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Auth.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Auth.Application.csproj",
+        "projectName": "Auth.Application",
+        "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Auth.Application.csproj",
+        "packagesPath": "C:\\Users\\nico_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nico_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Auth.Domain.csproj": {
+                "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Auth.Domain.csproj"
+              },
+              "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj"
+              },
+              "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj": {
+                "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Auth.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Auth.Domain.csproj",
+        "projectName": "Auth.Domain",
+        "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\Auth.Domain.csproj",
+        "packagesPath": "C:\\Users\\nico_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nico_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -80,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
+    "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
-        "projectName": "Ecommerce.Infrastructure",
-        "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj",
+        "projectName": "Ecommerce.Contracts.Auth",
+        "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\Ecommerce.Contracts.Auth.csproj",
         "packagesPath": "C:\\Users\\nico_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Contracts.Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -130,10 +272,87 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectName": "Ecommerce.Infrastructure",
+        "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\nico_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nico_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Auth.Application.csproj": {
+                "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Auth.Application\\Auth.Application.csproj"
+              },
+              "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Projects\\ecommerce\\ecommerce-architecture-roadmap\\src\\Ecommerce\\Ecommerce.Abstractions\\Ecommerce.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[9.0.6, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[6.1.0, )"
             }
           },
           "imports": [

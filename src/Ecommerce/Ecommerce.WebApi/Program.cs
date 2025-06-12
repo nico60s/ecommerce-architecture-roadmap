@@ -1,4 +1,9 @@
 
+using Auth.Infrastructure.Module;
+using Ecommerce.Abstractions.Hosting;
+using Ecommerce.Infrastructure.Module;
+using Ecommerce.WebApi.Extensions;
+
 namespace Ecommerce.WebApi
 {
     public class Program
@@ -14,6 +19,20 @@ namespace Ecommerce.WebApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            //registrar módulos
+            var modules = new List<IModule>
+            {
+                new InfrastructureModule(),
+                new AuthModule(),
+                // futuros módulos como ComprasModule, InventarioModule...
+            };
+
+            foreach (var module in modules)
+            {
+                module.RegisterServices(builder.Services, builder.Configuration);
+            }
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -22,7 +41,9 @@ namespace Ecommerce.WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+           
 
+            app.UseCustomAuth();
             app.UseAuthorization();
 
 

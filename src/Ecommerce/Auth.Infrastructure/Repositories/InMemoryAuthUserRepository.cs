@@ -6,19 +6,26 @@ namespace Auth.Infrastructure.Repositories
 {
     internal class InMemoryAuthUserRepository : IAuthUserRepository
     {
-        public Task Add(AuthUser user)
+        private readonly List<AuthUser> _users = [];
+        public async Task Add(AuthUser user)
         {
-            throw new NotImplementedException();
+            _users.Add(user);
         }
 
-        public Task<bool> ExistEmailAsync(string email)
+        public async Task<bool> ExistEmailAsync(string email)
         {
-            throw new NotImplementedException();
+            bool exist = false;
+            if (_users.Any(u => u.Email == email))
+                exist= true;
+            else 
+                exist =  false;
+
+            return exist;
         }
 
-        public Task<AuthUser> GetByEmailAsync(string email)
+        public async Task<AuthUser> GetByEmailAsync(string email)
         {
-            throw new NotImplementedException();
+            return  _users.Where(u => u.Email == email).FirstOrDefault();
         }
     }
 }

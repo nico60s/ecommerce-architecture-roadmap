@@ -9,9 +9,9 @@ namespace Auth.Infrastructure
             return BCrypt.Net.BCrypt.HashPassword(plainTextPassword);
         }
 
-        public bool Verify(string hashedPassword, string plainTextPassword)
+        public bool Verify(string plainTextPassword, string hashedPassword)
         {
-            return BCrypt.Net.BCrypt.Verify(hashedPassword,plainTextPassword);
+            return BCrypt.Net.BCrypt.Verify(plainTextPassword, hashedPassword);
         }
     }
 }

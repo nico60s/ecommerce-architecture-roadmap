@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Ecommerce.WebApi.Controllers.AuthController",
+    "Method": "SignIn",
+    "RelativePath": "api/v1/Auth/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Ecommerce.WebApi.Requests.SignInRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ecommerce.WebApi.Controllers.AuthController",
+    "Method": "SignUp",
+    "RelativePath": "api/v1/Auth/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Ecommerce.WebApi.Requests.SignUpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
