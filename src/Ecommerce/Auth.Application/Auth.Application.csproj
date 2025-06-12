@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Auth.Domain\Auth.Domain.csproj" />
     <ProjectReference Include="..\Ecommerce.Abstractions\Ecommerce.Abstractions.csproj" />
+    <ProjectReference Include="..\Ecommerce.Contracts.Auth\Ecommerce.Contracts.Auth.csproj" />
   </ItemGroup>
 
 </Project>

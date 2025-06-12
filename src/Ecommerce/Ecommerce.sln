@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Application", "Auth.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Infrastructure", "Auth.Infrastructure\Auth.Infrastructure.csproj", "{61AA5DC2-465B-4559-9C94-254D4AB914D4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Auth.Presentation", "Auth.Presentation", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compras.Domain", "Compras.Domain\Compras.Domain.csproj", "{233B2D6C-C944-4E4D-B9EF-B7E32D44EE79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compras.Application", "Compras.Application\Compras.Application.csproj", "{80F10F36-9EC3-465B-8123-E8DA4ED8AF7E}"
@@ -22,6 +20,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Abstractions", "Ecommerce.Abstractions\Ecommerce.Abstractions.csproj", "{48B47E93-257B-4DD0-BEE1-D1BF798C7A52}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infrastructure", "Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj", "{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.WebApi", "Ecommerce.WebApi\Ecommerce.WebApi.csproj", "{93FD8B97-F571-4BAD-B934-54903839A163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Contracts.Auth", "Ecommerce.Contracts.Auth\Ecommerce.Contracts.Auth.csproj", "{9929DBD6-114D-4785-AC81-F4BC61176812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{759FDCB2-9CA1-4AD1-9074-0492AB12D1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FD8B97-F571-4BAD-B934-54903839A163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FD8B97-F571-4BAD-B934-54903839A163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FD8B97-F571-4BAD-B934-54903839A163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FD8B97-F571-4BAD-B934-54903839A163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9929DBD6-114D-4785-AC81-F4BC61176812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9929DBD6-114D-4785-AC81-F4BC61176812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9929DBD6-114D-4785-AC81-F4BC61176812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9929DBD6-114D-4785-AC81-F4BC61176812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
