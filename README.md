@@ -41,6 +41,7 @@ Cada etapa incluye:
 ## 🚧 Estado actual
 
 📍 Etapa 1: Modelado de contextos y estructura de módulos en desarrollo.
+
 📍 Etapa 1: Contexto Auth implementado. Comenzando Contexto compra.
 
 ---
